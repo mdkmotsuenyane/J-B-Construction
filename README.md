@@ -79,6 +79,7 @@ Through this project, I gained hands-on experience with:
 Planned enhancements include:
 
 * Backend integration (contact form email handling)
+* Database storage
 * Performance optimization
 * Improved accessibility (ARIA roles & contrast)
 * CMS or admin panel for content updates
@@ -92,7 +93,7 @@ Planned enhancements include:
 **Software Development Student**
 Passionate about building practical, user-focused web solutions.
 
-📍 South Africa
+📍🇿🇦 South Africa 
 📫 Open to internships, graduate roles, and collaborations
 
 ---
@@ -103,11 +104,3 @@ This project is for educational and portfolio purposes.
 
 ---
 
-If you want, I can:
-
-* tailor it for **recruiters**
-* simplify it for **school submission**
-* add **badges** (HTML, CSS, JS)
-* or optimize it for **GitHub search**
-
-Just say the word 💪
